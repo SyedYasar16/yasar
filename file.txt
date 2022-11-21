@@ -5,3 +5,6 @@ my git
 
 
 my file new repository
+
+
+making a change from respository
