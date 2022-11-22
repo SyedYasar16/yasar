@@ -6,4 +6,9 @@ my git
 
 my file new repository
 
+<<<<<<< HEAD
 making a change from local repository
+=======
+
+making a change from respository
+>>>>>>> fc14dabf2c827409e4456a414e334cf10c9b37ca
